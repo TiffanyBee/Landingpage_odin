@@ -108,3 +108,29 @@ nav span:nth-child(2) {
     display: inline-block;
     font-weight: bold;
 }
+
+#call-to-action {
+    margin: 80px 200px;
+    background-color: #3882f6;
+    box-sizing: border-box;
+    padding: 30px 90px;
+    border-radius: 9px;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    align-items: center;
+}
+
+#call-to-action div:nth-child(1) {
+    flex: 2;
+}
+#call-to-action div:nth-child(2) {
+    flex: 1;
+}
+#signup {
+    float: right;
+    border: 3px solid white;
+    padding: 9px 27px;
+    font-weight: bold;
+    border-radius: 9px;
+}
