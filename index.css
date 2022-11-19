@@ -134,3 +134,11 @@ nav span:nth-child(2) {
     font-weight: bold;
     border-radius: 9px;
 }
+#footer {
+    background-color: #1F2937;
+    color: white;
+    Padding: 20px;
+}
+#footer p {
+    text-align: center;
+}
