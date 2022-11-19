@@ -90,3 +90,21 @@ nav span:nth-child(2) {
 #best-works h4 {
     text-align: center;
 }
+
+#review {
+    background-color: #E5E7EB;
+    padding: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flexbox
+}
+#review p i {
+    font-size: 36px;
+    font-weight:lighter;
+    color: #1F2937;
+}
+#review p {
+    font-size: 25px;
+    display: inline-block;
+    font-weight: bold;
+}
